@@ -1,6 +1,6 @@
 # Practicas-BasesDeDatos
 <p align="center">
-  <img width="320" height="200" src="https://www.hatthieves.es/wp-content/uploads/2019/09/16-420x300.png">
+  <img width="340" height="220" src="https://www.hatthieves.es/wp-content/uploads/2019/09/16-420x300.png">
   <img width="320" height="200" src="https://navisionando.files.wordpress.com/2014/06/logo_sqlserver.png?w=300">
 </p>
 
